@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+        char arquivo[20];
+        int x;
+
+        printf("Digite o texto a ser descriptografado: ");
+        scanf("%s", arquivo);
+
+
+        for( x = 0; x < strlen(arquivo); x++ )
+        {
+                arquivo[x] -= 3;
+
+        }
+        printf(">> Texto descriptografado: %s\n\n ", arquivo);
+
+        return 0;
+}

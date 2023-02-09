@@ -1,0 +1,22 @@
+Nome completo: Pedro alvares silva
+E-mail: alvares_123@gmail.com
+Telefone: 1392837495
+Endereco: rua jose alvares cabral
+Idade: 24
+Formacao: Engenharia da computacao
+Experiencia profissional: resposavel por desenvolvimento de software
+Idiomas: Ingles nivel intermediario
+Cursos extracurriculares: curso online para gestao de equipes de desenvolvimento
+
+
+Nome completo: alex andre pereira
+E-mail: andrealex_123@gmail.com
+Telefone: 13928327452
+Endereco: rua das flores
+Idade: 32
+Formacao: analise e desenvolvimento de sistemas - unip
+Experiencia profissional: desenvolvedor
+Idiomas: Ingles avancado
+Cursos extracurriculares: curso online de desenvolvimento web
+
+

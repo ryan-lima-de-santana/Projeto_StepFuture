@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1669930692 source:d:\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+	<dos.h>
+	<string.h>
+	<wchar.h>
+	<direct.h>
+
+1669933038 source:f:\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+	<dos.h>
+	<string.h>
+	<wchar.h>
+	<direct.h>
+
